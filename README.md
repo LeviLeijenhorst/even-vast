@@ -1,7 +1,5 @@
 # Loop je even vast?
 
-Openbare startpagina's en gespreksinstructies voor begeleiders en docenten.
+Gespreksinstructies als losse Markdownbestanden. De QR-codes openen rechtstreeks ChatGPT met een korte verwijzing naar het passende bestand.
 
-Website: https://levileijenhorst.github.io/even-vast/
-
-Deze repository bevat alleen algemene productinstructies. Geen casusinvoer of onderzoeksdata.
+De oude webingangen verwijzen uitsluitend door. Er is geen eigen gebruikersinterface.
